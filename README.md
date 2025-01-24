@@ -1,4 +1,4 @@
-# Orange Car Rental: Predictive Pricing Model
+# Car Rental: Predictive Pricing Model
 
 This repository contains the project materials for **Team Beijing's predictive modeling initiative**, conducted as part of MMA 867 at Queen's University. The project aims to optimize car pricing strategies through a robust predictive model built with multivariate and Lasso regression.
 
