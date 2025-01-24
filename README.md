@@ -22,11 +22,11 @@ This project leverages predictive analytics to deliver actionable insights for p
 - **Testing R²**: 0.9404
 - **MAPE**: 10.76%  
 
-## 📈 Insights and Applications
+## Insights and Applications
 - Identified key drivers behind car pricing.
 - Provided tools for manufacturers, dealers, and rental companies to improve pricing strategies.
 
-## 🛠 Next Steps
+## Next Steps
 1. **Model Refinement**: Enhance accuracy and fine-tune feature selection.
 2. **Car Pricing Calculator**: Build an intuitive tool for instant price estimates based on user inputs.
 3. **Scenario Analysis**: Test the model under varying market conditions for reliability and adaptability.
